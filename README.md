@@ -28,4 +28,4 @@ I focus on the parts that decide whether AI works in production: retrieval quali
 ### How I build
 Structured outputs over free text. Evals before "it looks right." Retries, logging, and cost tracking from day one. Documentation that lets your team own the system after handoff.
 
-📫 Available for projects via [Upwork](link) · [LinkedIn](link)
+📫 Available for projects via [Upwork](https://www.upwork.com/freelancers/~01d12fdae614c87c71)
