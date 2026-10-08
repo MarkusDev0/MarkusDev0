@@ -1,6 +1,6 @@
 # Markus N.
 
-**AI Engineer** — I build production AI systems that automate real business workflows and keep working after the demo.
+**AI Engineer** I build production AI systems that automate real business workflows and keep working after the demo.
 
 I focus on the parts that decide whether AI works in production: retrieval quality, tool reliability, structured outputs, evaluation, observability, and human approval where it matters.
 
