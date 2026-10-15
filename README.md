@@ -14,8 +14,8 @@ I focus on the parts that decide whether AI works in production: retrieval quali
 ### Featured projects
 | Project | What it shows |
 |---|---|
-| [production-rag](link) | RAG service with hybrid retrieval, reranking, citations, and an evaluation harness |
-| [agent-approval-workflows](link) | LangGraph agents with tool calling, human-in-the-loop approval, retries, and audit logs |
+| [production-rag](https://github.com/MarkusDev0/production-rag) | RAG service with hybrid retrieval, reranking, citations, and an evaluation harness |
+| [agent-approval-workflows](https://github.com/MarkusDev0/agent-approval-workflows) | LangGraph agents with tool calling, human-in-the-loop approval, retries, and audit logs |
 | [docflow-extract](link) | Document extraction pipeline with typed outputs, validation, and accuracy benchmarks |
 
 ### Stack
